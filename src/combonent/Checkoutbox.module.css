@@ -1,0 +1,35 @@
+.contaner{
+    border-radius: 20px;
+    display: grid;
+    margin-bottom: 30px;
+
+}
+.hei{
+    height: 30px;
+}
+.contaner2{
+    background-color: #e2f0ff;
+    border-radius: 20px;
+    display: grid;
+    margin-bottom: 30px;
+
+}
+.line{
+    height: 2px;
+    width: 90% !important;
+    margin-left: 18px;
+}
+.blor{
+    height: 10px;
+    color: rgba(0, 0, 0, 0.238);
+}
+.btn{
+    width:98%;
+    height: 35px;
+    background-color: #49BBBD;
+    border:0;
+    margin-top: 15px;
+    margin-bottom: 30;
+    border-radius: 8px;
+    color: #ffffff !important;
+}
