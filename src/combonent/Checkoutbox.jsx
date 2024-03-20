@@ -1,4 +1,6 @@
-import React from "react";
+import
+
+rom "react";
 import Topoffer from "./Topoffer";
 import style from "./Checkoutbox.module.css";
 

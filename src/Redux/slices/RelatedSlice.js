@@ -8,7 +8,7 @@ export const getRelatedCourse = createAsyncThunk(
       const response = await axios.post(
         `http://localhost:4000/recomendation/api/course/${CourseID}`
       );
-      return response.data;
+      return response.data.data;
     } catch (error) {
       return thunkAPI.rejectWithValue(error.response.data);
     }

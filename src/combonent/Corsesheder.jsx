@@ -33,7 +33,7 @@ function Corsesheder() {
                       <div className={style.reatsize}></div>
                     </div>
                     <div className="d-flex justify-content-end mt-3">
-                        <p  className={style.botomtext}>Lesson 5 of 7</p>
+                      <p className={style.botomtext}>Lesson 5 of 7</p>
                     </div>
                   </div>
                 </div>
@@ -53,7 +53,7 @@ function Corsesheder() {
                       <div className={style.reatsize}></div>
                     </div>
                     <div className="d-flex justify-content-end mt-3">
-                        <p  className={style.botomtext}>Lesson 5 of 7</p>
+                      <p className={style.botomtext}>Lesson 5 of 7</p>
                     </div>
                   </div>
                 </div>
@@ -73,16 +73,14 @@ function Corsesheder() {
                       <div className={style.reatsize}></div>
                     </div>
                     <div className="d-flex justify-content-end mt-3">
-                        <p  className={style.botomtext}>Lesson 5 of 7</p>
+                      <p className={style.botomtext}>Lesson 5 of 7</p>
                     </div>
                   </div>
-
                 </div>
               </div>
             </div>
-             
 
-             <Boton />
+            <Boton />
           </div>
         </div>
       </div>

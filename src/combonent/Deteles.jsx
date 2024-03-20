@@ -13,9 +13,9 @@ function Deteles() {
               <div className={style.rait}>
                 <h5>4 out of 5</h5>
                 <div>
-                  {[...Array(5)].map((star) => {
+                  {[...Array(5)].map((_, index) => {
                     return (
-                      <label>
+                      <label key={index}>
                         <FaStar className={style.star} />
                       </label>
                     );

@@ -11,7 +11,7 @@ function Corsdetels() {
   return (
     <>
       <Corsdetelshed data={courseData} />
-      <Markting data={courseData._id} />
+      {/* <Markting data={courseData._id} /> */}
       <About />
       <Topoffer />
     </>

@@ -6,14 +6,15 @@ import Online from "./Online";
 import Bersonal from "./Bersonal";
 import Views from "./Views";
 import Fav from "./Fav";
+import Recommendation from "./Recommendation";
 
 function Corses() {
   return (
     <>
-      {/* <Corsesheder /> */}
+      {<Recommendation />}
       <Fav />
       {/* <Topcorses /> */}
-      <Choise />
+      {/* <Choise /> */}
       {/* <Online /> */}
       {/* <Bersonal /> */}
       {/* <Views /> */}
